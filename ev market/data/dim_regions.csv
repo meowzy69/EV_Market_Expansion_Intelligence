@@ -1,0 +1,271 @@
+region_id,state_name,city_name,country,region_type,latitude,longitude,population_zone,created_date
+RG0001,Andhra Pradesh,Amaravati,India,state,16.57,80.37,mixed,2026-06-13
+RG0002,Arunachal Pradesh,Itanagar,India,state,27.1,93.62,mixed,2026-06-13
+RG0003,Assam,Dispur,India,state,26.14,91.79,mixed,2026-06-13
+RG0004,Bihar,Patna,India,state,25.61,85.14,mixed,2026-06-13
+RG0005,Chhattisgarh,Raipur,India,state,21.25,81.63,mixed,2026-06-13
+RG0006,Goa,Panaji,India,state,15.49,73.83,mixed,2026-06-13
+RG0007,Gujarat,Gandhinagar,India,state,23.22,72.68,mixed,2026-06-13
+RG0008,Haryana,Chandigarh,India,state,30.73,76.78,mixed,2026-06-13
+RG0009,Himachal Pradesh,Shimla,India,state,31.1,77.17,mixed,2026-06-13
+RG0010,Jharkhand,Ranchi,India,state,23.34,85.31,mixed,2026-06-13
+RG0011,Karnataka,Bengaluru,India,state,12.97,77.59,mixed,2026-06-13
+RG0012,Kerala,Thiruvananthapuram,India,state,8.52,76.94,mixed,2026-06-13
+RG0013,Madhya Pradesh,Bhopal,India,state,23.26,77.41,mixed,2026-06-13
+RG0014,Maharashtra,Mumbai,India,state,19.08,72.88,mixed,2026-06-13
+RG0015,Manipur,Imphal,India,state,24.82,93.94,mixed,2026-06-13
+RG0016,Meghalaya,Shillong,India,state,25.57,91.88,mixed,2026-06-13
+RG0017,Mizoram,Aizawl,India,state,23.73,92.72,mixed,2026-06-13
+RG0018,Nagaland,Kohima,India,state,25.67,94.11,mixed,2026-06-13
+RG0019,Odisha,Bhubaneswar,India,state,20.3,85.82,mixed,2026-06-13
+RG0020,Punjab,Chandigarh,India,state,30.74,76.78,mixed,2026-06-13
+RG0021,Rajasthan,Jaipur,India,state,26.91,75.79,mixed,2026-06-13
+RG0022,Sikkim,Gangtok,India,state,27.33,88.61,mixed,2026-06-13
+RG0023,Tamil Nadu,Chennai,India,state,13.08,80.27,mixed,2026-06-13
+RG0024,Telangana,Hyderabad,India,state,17.38,78.49,mixed,2026-06-13
+RG0025,Tripura,Agartala,India,state,23.83,91.28,mixed,2026-06-13
+RG0026,Uttar Pradesh,Lucknow,India,state,26.85,80.95,mixed,2026-06-13
+RG0027,Uttarakhand,Dehradun,India,state,30.32,78.03,mixed,2026-06-13
+RG0028,West Bengal,Kolkata,India,state,22.57,88.36,mixed,2026-06-13
+RG0029,Delhi,New Delhi,India,union_territory,28.61,77.21,mixed,2026-06-13
+RG0030,Jammu & Kashmir,Srinagar,India,union_territory,34.08,74.79,mixed,2026-06-13
+RG0031,Ladakh,Leh,India,union_territory,34.15,77.57,mixed,2026-06-13
+RG0032,Chandigarh,Chandigarh,India,union_territory,30.74,76.78,mixed,2026-06-13
+RG0033,Puducherry,Puducherry,India,union_territory,11.94,79.83,mixed,2026-06-13
+RG0034,Lakshadweep,Kavaratti,India,union_territory,10.57,72.64,mixed,2026-06-13
+RG0035,Andaman & Nicobar Islands,Port Blair,India,union_territory,11.67,92.73,mixed,2026-06-13
+RG0036,Dadra & Nagar Haveli and Daman & Diu,Daman,India,union_territory,20.42,72.84,mixed,2026-06-13
+RG0037,Andhra Pradesh,Visakhapatnam,India,tier1_city,16.8525,80.4472,metro,2026-06-13
+RG0038,Andhra Pradesh,Vijayawada,India,tier1_city,16.0473,81.1182,metro,2026-06-13
+RG0039,Andhra Pradesh,Guntur,India,tier2_city,15.9595,79.3373,semi_urban,2026-06-13
+RG0040,Andhra Pradesh,Tirupati,India,tier2_city,15.533,80.1343,semi_urban,2026-06-13
+RG0041,Andhra Pradesh,Kakinada,India,tier2_city,17.3583,79.167,urban,2026-06-13
+RG0042,Andhra Pradesh,Rajahmundry,India,tier2_city,16.8722,80.9257,urban,2026-06-13
+RG0043,Andhra Pradesh,Nellore,India,tier2_city,17.918,80.793,semi_urban,2026-06-13
+RG0044,Andhra Pradesh,Kurnool,India,tier2_city,16.7657,81.4034,urban,2026-06-13
+RG0045,Andhra Pradesh,Anantapur,India,tier2_city,15.8542,79.007,semi_urban,2026-06-13
+RG0046,Andhra Pradesh,Eluru,India,tier2_city,15.7622,78.6866,urban,2026-06-13
+RG0047,Arunachal Pradesh,Itanagar,India,tier2_city,25.8835,94.0676,semi_urban,2026-06-13
+RG0048,Arunachal Pradesh,Naharlagun,India,tier2_city,28.1009,94.49,semi_urban,2026-06-13
+RG0049,Arunachal Pradesh,Pasighat,India,tier2_city,28.0332,94.6559,semi_urban,2026-06-13
+RG0050,Arunachal Pradesh,Tawang,India,tier2_city,26.1916,92.7663,semi_urban,2026-06-13
+RG0051,Assam,Guwahati,India,tier1_city,25.0525,90.0844,metro,2026-06-13
+RG0052,Assam,Dibrugarh,India,tier2_city,27.2952,92.569,semi_urban,2026-06-13
+RG0053,Assam,Silchar,India,tier2_city,25.4799,91.335,semi_urban,2026-06-13
+RG0054,Assam,Jorhat,India,tier2_city,27.4885,92.9378,semi_urban,2026-06-13
+RG0055,Assam,Tezpur,India,tier2_city,25.9065,91.7454,urban,2026-06-13
+RG0056,Assam,Tinsukia,India,tier2_city,26.56,90.8284,urban,2026-06-13
+RG0057,Bihar,Patna,India,tier1_city,25.8532,83.9419,metro,2026-06-13
+RG0058,Bihar,Gaya,India,tier2_city,26.6585,85.3275,semi_urban,2026-06-13
+RG0059,Bihar,Bhagalpur,India,tier2_city,24.4101,83.4706,semi_urban,2026-06-13
+RG0060,Bihar,Muzaffarpur,India,tier2_city,26.9777,85.1426,semi_urban,2026-06-13
+RG0061,Bihar,Darbhanga,India,tier2_city,24.8882,83.6735,urban,2026-06-13
+RG0062,Bihar,Purnia,India,tier2_city,25.8071,84.5873,semi_urban,2026-06-13
+RG0063,Bihar,Ara,India,tier2_city,25.8214,85.4721,urban,2026-06-13
+RG0064,Bihar,Begusarai,India,tier2_city,26.6247,83.6549,urban,2026-06-13
+RG0065,Chhattisgarh,Raipur,India,tier1_city,20.7028,82.4332,metro,2026-06-13
+RG0066,Chhattisgarh,Bilaspur,India,tier2_city,20.4383,81.9744,urban,2026-06-13
+RG0067,Chhattisgarh,Bhilai,India,tier2_city,20.9794,82.0995,urban,2026-06-13
+RG0068,Chhattisgarh,Durg,India,tier2_city,21.9813,79.9533,semi_urban,2026-06-13
+RG0069,Chhattisgarh,Korba,India,tier2_city,19.9166,81.0237,semi_urban,2026-06-13
+RG0070,Chhattisgarh,Raigarh,India,tier2_city,22.5899,80.2728,urban,2026-06-13
+RG0071,Goa,Panaji,India,tier1_city,14.2402,74.1232,metro,2026-06-13
+RG0072,Goa,Margao,India,tier2_city,14.3814,74.0446,semi_urban,2026-06-13
+RG0073,Goa,Vasco da Gama,India,tier2_city,15.3327,73.9305,semi_urban,2026-06-13
+RG0074,Goa,Mapusa,India,tier2_city,15.5326,72.8995,urban,2026-06-13
+RG0075,Gujarat,Ahmedabad,India,tier1_city,24.5123,71.2618,metro,2026-06-13
+RG0076,Gujarat,Surat,India,tier1_city,23.0475,71.1101,metro,2026-06-13
+RG0077,Gujarat,Vadodara,India,tier1_city,24.2871,74.3611,metro,2026-06-13
+RG0078,Gujarat,Rajkot,India,tier1_city,22.1535,73.2219,metro,2026-06-13
+RG0079,Gujarat,Bhavnagar,India,tier2_city,24.5306,74.2792,urban,2026-06-13
+RG0080,Gujarat,Jamnagar,India,tier2_city,23.0434,73.9627,urban,2026-06-13
+RG0081,Gujarat,Gandhinagar,India,tier1_city,22.8599,71.2383,metro,2026-06-13
+RG0082,Gujarat,Junagadh,India,tier2_city,24.1851,71.2836,urban,2026-06-13
+RG0083,Gujarat,Anand,India,tier2_city,21.996,72.9025,urban,2026-06-13
+RG0084,Gujarat,Mehsana,India,tier2_city,23.0182,71.6742,semi_urban,2026-06-13
+RG0085,Gujarat,Vapi,India,tier2_city,23.6422,73.8727,semi_urban,2026-06-13
+RG0086,Gujarat,Bharuch,India,tier2_city,23.8547,72.7295,semi_urban,2026-06-13
+RG0087,Gujarat,Porbandar,India,tier2_city,22.0981,71.435,semi_urban,2026-06-13
+RG0088,Haryana,Gurugram,India,tier1_city,30.0893,76.2724,metro,2026-06-13
+RG0089,Haryana,Faridabad,India,tier1_city,29.6531,77.494,metro,2026-06-13
+RG0090,Haryana,Panipat,India,tier2_city,30.29,77.1503,semi_urban,2026-06-13
+RG0091,Haryana,Hisar,India,tier2_city,31.0697,75.0761,urban,2026-06-13
+RG0092,Haryana,Karnal,India,tier2_city,30.8859,76.8053,semi_urban,2026-06-13
+RG0093,Haryana,Rohtak,India,tier2_city,31.8658,75.3406,urban,2026-06-13
+RG0094,Haryana,Ambala,India,tier2_city,30.0317,78.0198,urban,2026-06-13
+RG0095,Haryana,Sonipat,India,tier2_city,31.3128,75.4514,semi_urban,2026-06-13
+RG0096,Himachal Pradesh,Shimla,India,tier2_city,31.8298,77.7814,urban,2026-06-13
+RG0097,Himachal Pradesh,Solan,India,tier2_city,32.098,77.7786,urban,2026-06-13
+RG0098,Himachal Pradesh,Mandi,India,tier2_city,29.894,77.3203,semi_urban,2026-06-13
+RG0099,Himachal Pradesh,Dharamshala,India,tier2_city,31.0467,75.8283,urban,2026-06-13
+RG0100,Himachal Pradesh,Una,India,tier2_city,31.5283,75.4892,urban,2026-06-13
+RG0101,Himachal Pradesh,Kullu,India,tier2_city,30.3335,77.0809,semi_urban,2026-06-13
+RG0102,Jharkhand,Ranchi,India,tier1_city,23.4071,85.2309,metro,2026-06-13
+RG0103,Jharkhand,Jamshedpur,India,tier1_city,24.182,86.2064,metro,2026-06-13
+RG0104,Jharkhand,Dhanbad,India,tier1_city,24.1125,83.9892,metro,2026-06-13
+RG0105,Jharkhand,Bokaro,India,tier2_city,24.7108,84.8834,urban,2026-06-13
+RG0106,Jharkhand,Hazaribagh,India,tier2_city,23.5839,85.0648,semi_urban,2026-06-13
+RG0107,Jharkhand,Deoghar,India,tier2_city,24.6524,85.2961,semi_urban,2026-06-13
+RG0108,Jharkhand,Giridih,India,tier2_city,24.1753,85.1708,semi_urban,2026-06-13
+RG0109,Jharkhand,Ramgarh,India,tier2_city,23.2805,84.9006,urban,2026-06-13
+RG0110,Karnataka,Bengaluru,India,tier1_city,11.6528,77.5551,metro,2026-06-13
+RG0111,Karnataka,Mysuru,India,tier1_city,14.11,78.3894,metro,2026-06-13
+RG0112,Karnataka,Mangaluru,India,tier1_city,12.9484,76.3231,metro,2026-06-13
+RG0113,Karnataka,Hubballi-Dharwad,India,tier2_city,12.1894,78.5307,urban,2026-06-13
+RG0114,Karnataka,Belagavi,India,tier2_city,13.8942,76.6767,semi_urban,2026-06-13
+RG0115,Karnataka,Davanagere,India,tier2_city,11.8785,79.1399,urban,2026-06-13
+RG0116,Karnataka,Ballari,India,tier2_city,11.9863,78.7107,urban,2026-06-13
+RG0117,Karnataka,Shivamogga,India,tier2_city,14.1013,76.0548,semi_urban,2026-06-13
+RG0118,Karnataka,Tumakuru,India,tier2_city,11.7501,79.2365,urban,2026-06-13
+RG0119,Karnataka,Udupi,India,tier2_city,12.7935,78.609,urban,2026-06-13
+RG0120,Karnataka,Kalaburagi,India,tier2_city,14.191,76.1295,urban,2026-06-13
+RG0121,Karnataka,Hassan,India,tier2_city,12.759,78.8211,semi_urban,2026-06-13
+RG0122,Kerala,Thiruvananthapuram,India,tier1_city,7.3015,77.9246,metro,2026-06-13
+RG0123,Kerala,Kochi,India,tier1_city,9.54,75.4873,metro,2026-06-13
+RG0124,Kerala,Kozhikode,India,tier1_city,9.5581,75.4885,metro,2026-06-13
+RG0125,Kerala,Thrissur,India,tier2_city,9.8659,75.5566,semi_urban,2026-06-13
+RG0126,Kerala,Kollam,India,tier2_city,9.5889,78.1718,semi_urban,2026-06-13
+RG0127,Kerala,Kannur,India,tier2_city,9.5961,76.7604,urban,2026-06-13
+RG0128,Kerala,Kottayam,India,tier2_city,8.4704,76.0611,urban,2026-06-13
+RG0129,Kerala,Alappuzha,India,tier2_city,8.426,76.8043,urban,2026-06-13
+RG0130,Kerala,Palakkad,India,tier2_city,8.1886,77.991,semi_urban,2026-06-13
+RG0131,Madhya Pradesh,Bhopal,India,tier1_city,23.4425,77.2639,metro,2026-06-13
+RG0132,Madhya Pradesh,Indore,India,tier1_city,24.4858,78.8414,metro,2026-06-13
+RG0133,Madhya Pradesh,Jabalpur,India,tier1_city,23.3625,78.5678,metro,2026-06-13
+RG0134,Madhya Pradesh,Gwalior,India,tier2_city,24.0933,76.7416,semi_urban,2026-06-13
+RG0135,Madhya Pradesh,Ujjain,India,tier2_city,23.3296,79.0933,semi_urban,2026-06-13
+RG0136,Madhya Pradesh,Sagar,India,tier2_city,22.5202,78.4886,semi_urban,2026-06-13
+RG0137,Madhya Pradesh,Rewa,India,tier2_city,24.5221,76.725,semi_urban,2026-06-13
+RG0138,Madhya Pradesh,Satna,India,tier2_city,24.0601,78.2086,urban,2026-06-13
+RG0139,Madhya Pradesh,Dewas,India,tier2_city,24.4707,75.7516,semi_urban,2026-06-13
+RG0140,Madhya Pradesh,Ratlam,India,tier2_city,22.6442,76.62,urban,2026-06-13
+RG0141,Maharashtra,Mumbai,India,tier1_city,18.2235,72.3575,metro,2026-06-13
+RG0142,Maharashtra,Pune,India,tier1_city,18.2646,74.5666,metro,2026-06-13
+RG0143,Maharashtra,Nagpur,India,tier1_city,19.2128,72.0488,metro,2026-06-13
+RG0144,Maharashtra,Nashik,India,tier1_city,20.0328,74.0987,metro,2026-06-13
+RG0145,Maharashtra,Thane,India,tier1_city,19.3135,71.1876,metro,2026-06-13
+RG0146,Maharashtra,Aurangabad,India,tier2_city,19.5691,72.5832,urban,2026-06-13
+RG0147,Maharashtra,Solapur,India,tier2_city,20.1113,74.2869,urban,2026-06-13
+RG0148,Maharashtra,Kolhapur,India,tier2_city,18.8595,74.2212,semi_urban,2026-06-13
+RG0149,Maharashtra,Amravati,India,tier2_city,19.9961,73.9895,semi_urban,2026-06-13
+RG0150,Maharashtra,Sangli,India,tier2_city,20.079,72.8794,semi_urban,2026-06-13
+RG0151,Maharashtra,Navi Mumbai,India,tier1_city,19.4611,71.2368,metro,2026-06-13
+RG0152,Maharashtra,Kalyan-Dombivli,India,tier2_city,18.9114,71.8541,urban,2026-06-13
+RG0153,Maharashtra,Vasai-Virar,India,tier2_city,18.2466,74.4653,urban,2026-06-13
+RG0154,Maharashtra,Ahmednagar,India,tier2_city,19.8354,73.9439,semi_urban,2026-06-13
+RG0155,Manipur,Imphal,India,tier2_city,25.2482,94.373,urban,2026-06-13
+RG0156,Manipur,Thoubal,India,tier2_city,25.9087,92.6855,semi_urban,2026-06-13
+RG0157,Manipur,Kakching,India,tier2_city,24.0419,92.2747,urban,2026-06-13
+RG0158,Meghalaya,Shillong,India,tier1_city,26.1826,93.0012,metro,2026-06-13
+RG0159,Meghalaya,Tura,India,tier2_city,26.8517,92.5616,semi_urban,2026-06-13
+RG0160,Meghalaya,Jowai,India,tier2_city,25.1115,93.5481,semi_urban,2026-06-13
+RG0161,Mizoram,Aizawl,India,tier1_city,24.1281,91.5181,metro,2026-06-13
+RG0162,Mizoram,Lunglei,India,tier2_city,25.0392,94.49,semi_urban,2026-06-13
+RG0163,Mizoram,Champhai,India,tier2_city,24.254,92.2533,urban,2026-06-13
+RG0164,Nagaland,Kohima,India,tier2_city,25.2099,95.1089,semi_urban,2026-06-13
+RG0165,Nagaland,Dimapur,India,tier2_city,25.1843,93.1567,semi_urban,2026-06-13
+RG0166,Nagaland,Mokokchung,India,tier2_city,26.6937,94.2667,semi_urban,2026-06-13
+RG0167,Odisha,Bhubaneswar,India,tier1_city,20.8103,85.8761,metro,2026-06-13
+RG0168,Odisha,Cuttack,India,tier2_city,20.0334,87.0453,semi_urban,2026-06-13
+RG0169,Odisha,Rourkela,India,tier2_city,21.6956,86.1056,urban,2026-06-13
+RG0170,Odisha,Sambalpur,India,tier2_city,21.4694,84.8003,semi_urban,2026-06-13
+RG0171,Odisha,Berhampur,India,tier2_city,20.8474,86.2586,urban,2026-06-13
+RG0172,Odisha,Balasore,India,tier2_city,19.9733,87.4394,urban,2026-06-13
+RG0173,Odisha,Puri,India,tier2_city,19.2885,86.0765,semi_urban,2026-06-13
+RG0174,Odisha,Baripada,India,tier2_city,21.6,84.4821,semi_urban,2026-06-13
+RG0175,Odisha,Angul,India,tier2_city,19.9513,86.2916,semi_urban,2026-06-13
+RG0176,Punjab,Ludhiana,India,tier1_city,29.5725,75.5066,metro,2026-06-13
+RG0177,Punjab,Amritsar,India,tier1_city,30.976,75.3382,metro,2026-06-13
+RG0178,Punjab,Jalandhar,India,tier2_city,31.6613,77.0566,semi_urban,2026-06-13
+RG0179,Punjab,Patiala,India,tier2_city,29.946,75.2822,urban,2026-06-13
+RG0180,Punjab,Bathinda,India,tier2_city,31.4929,76.6851,semi_urban,2026-06-13
+RG0181,Punjab,Mohali,India,tier2_city,30.0354,77.197,semi_urban,2026-06-13
+RG0182,Punjab,Hoshiarpur,India,tier2_city,31.3097,78.0335,semi_urban,2026-06-13
+RG0183,Punjab,Moga,India,tier2_city,30.3461,77.0375,semi_urban,2026-06-13
+RG0184,Punjab,Pathankot,India,tier2_city,30.0858,78.0573,urban,2026-06-13
+RG0185,Rajasthan,Jaipur,India,tier1_city,27.0947,75.9709,metro,2026-06-13
+RG0186,Rajasthan,Jodhpur,India,tier2_city,25.8578,77.0404,semi_urban,2026-06-13
+RG0187,Rajasthan,Udaipur,India,tier1_city,26.9301,76.7948,metro,2026-06-13
+RG0188,Rajasthan,Kota,India,tier1_city,26.0234,75.0249,metro,2026-06-13
+RG0189,Rajasthan,Ajmer,India,tier2_city,25.8739,76.1629,semi_urban,2026-06-13
+RG0190,Rajasthan,Bikaner,India,tier2_city,26.2986,74.6402,urban,2026-06-13
+RG0191,Rajasthan,Alwar,India,tier2_city,27.0076,75.2089,urban,2026-06-13
+RG0192,Rajasthan,Bharatpur,India,tier2_city,26.9214,76.672,urban,2026-06-13
+RG0193,Rajasthan,Sikar,India,tier2_city,27.2379,75.1388,urban,2026-06-13
+RG0194,Rajasthan,Bhilwara,India,tier2_city,25.6638,74.5331,urban,2026-06-13
+RG0195,Rajasthan,Pali,India,tier2_city,26.506,77.5038,semi_urban,2026-06-13
+RG0196,Sikkim,Gangtok,India,tier2_city,26.2379,89.8567,urban,2026-06-13
+RG0197,Sikkim,Namchi,India,tier2_city,26.973,89.7385,semi_urban,2026-06-13
+RG0198,Sikkim,Gyalshing,India,tier2_city,26.5188,90.2799,semi_urban,2026-06-13
+RG0199,Tamil Nadu,Chennai,India,tier1_city,12.2835,78.5576,metro,2026-06-13
+RG0200,Tamil Nadu,Coimbatore,India,tier1_city,12.5317,80.2183,metro,2026-06-13
+RG0201,Tamil Nadu,Madurai,India,tier1_city,12.0732,80.014,metro,2026-06-13
+RG0202,Tamil Nadu,Salem,India,tier2_city,13.4177,78.8431,urban,2026-06-13
+RG0203,Tamil Nadu,Tiruchirappalli,India,tier1_city,12.565,81.6887,metro,2026-06-13
+RG0204,Tamil Nadu,Tiruppur,India,tier1_city,11.7278,80.6743,metro,2026-06-13
+RG0205,Tamil Nadu,Erode,India,tier2_city,12.8683,80.9135,urban,2026-06-13
+RG0206,Tamil Nadu,Vellore,India,tier2_city,13.2276,79.7251,urban,2026-06-13
+RG0207,Tamil Nadu,Thanjavur,India,tier2_city,13.2211,80.4046,semi_urban,2026-06-13
+RG0208,Tamil Nadu,Hosur,India,tier2_city,12.5764,79.3318,semi_urban,2026-06-13
+RG0209,Tamil Nadu,Dindigul,India,tier2_city,13.8646,81.3139,semi_urban,2026-06-13
+RG0210,Tamil Nadu,Nagercoil,India,tier2_city,14.1273,81.6894,semi_urban,2026-06-13
+RG0211,Telangana,Hyderabad,India,tier1_city,16.617,78.5088,metro,2026-06-13
+RG0212,Telangana,Warangal,India,tier1_city,17.9798,78.806,metro,2026-06-13
+RG0213,Telangana,Karimnagar,India,tier2_city,17.1319,77.9364,urban,2026-06-13
+RG0214,Telangana,Nizamabad,India,tier2_city,17.4911,79.1353,semi_urban,2026-06-13
+RG0215,Telangana,Khammam,India,tier2_city,16.5392,76.8694,urban,2026-06-13
+RG0216,Telangana,Mahbubnagar,India,tier2_city,16.0297,79.8534,urban,2026-06-13
+RG0217,Tripura,Agartala,India,tier2_city,23.5698,91.781,semi_urban,2026-06-13
+RG0218,Tripura,Udaipur,India,tier1_city,23.8501,92.2848,metro,2026-06-13
+RG0219,Tripura,Dharmanagar,India,tier2_city,24.3501,90.5797,semi_urban,2026-06-13
+RG0220,Uttar Pradesh,Lucknow,India,tier1_city,26.746,81.94,metro,2026-06-13
+RG0221,Uttar Pradesh,Kanpur,India,tier1_city,27.6282,81.363,metro,2026-06-13
+RG0222,Uttar Pradesh,Ghaziabad,India,tier1_city,27.5654,82.4381,metro,2026-06-13
+RG0223,Uttar Pradesh,Agra,India,tier2_city,27.2305,81.8433,urban,2026-06-13
+RG0224,Uttar Pradesh,Varanasi,India,tier2_city,27.3001,80.4845,urban,2026-06-13
+RG0225,Uttar Pradesh,Meerut,India,tier2_city,25.9249,79.897,urban,2026-06-13
+RG0226,Uttar Pradesh,Prayagraj,India,tier2_city,26.3215,79.3807,urban,2026-06-13
+RG0227,Uttar Pradesh,Bareilly,India,tier2_city,28.0422,80.2713,semi_urban,2026-06-13
+RG0228,Uttar Pradesh,Aligarh,India,tier2_city,25.997,80.7401,urban,2026-06-13
+RG0229,Uttar Pradesh,Moradabad,India,tier2_city,27.31,81.2441,semi_urban,2026-06-13
+RG0230,Uttar Pradesh,Saharanpur,India,tier2_city,26.3837,80.2655,urban,2026-06-13
+RG0231,Uttar Pradesh,Noida,India,tier1_city,27.0737,82.0263,metro,2026-06-13
+RG0232,Uttar Pradesh,Gorakhpur,India,tier2_city,28.0471,79.8413,semi_urban,2026-06-13
+RG0233,Uttar Pradesh,Jhansi,India,tier2_city,25.4928,80.4985,semi_urban,2026-06-13
+RG0234,Uttarakhand,Dehradun,India,tier2_city,29.925,78.6073,urban,2026-06-13
+RG0235,Uttarakhand,Haridwar,India,tier2_city,29.623,79.6867,semi_urban,2026-06-13
+RG0236,Uttarakhand,Roorkee,India,tier2_city,29.7103,76.5847,semi_urban,2026-06-13
+RG0237,Uttarakhand,Haldwani,India,tier2_city,29.1343,77.1723,semi_urban,2026-06-13
+RG0238,Uttarakhand,Rudrapur,India,tier2_city,31.0901,79.7136,urban,2026-06-13
+RG0239,Uttarakhand,Kashipur,India,tier2_city,30.2274,78.6362,semi_urban,2026-06-13
+RG0240,Uttarakhand,Rishikesh,India,tier2_city,29.6129,77.0223,urban,2026-06-13
+RG0241,West Bengal,Kolkata,India,tier1_city,21.1739,89.1541,metro,2026-06-13
+RG0242,West Bengal,Howrah,India,tier1_city,22.4351,86.9574,metro,2026-06-13
+RG0243,West Bengal,Siliguri,India,tier1_city,23.4724,89.3104,metro,2026-06-13
+RG0244,West Bengal,Durgapur,India,tier2_city,23.2871,88.1076,semi_urban,2026-06-13
+RG0245,West Bengal,Asansol,India,tier1_city,21.4139,89.2737,metro,2026-06-13
+RG0246,West Bengal,Kharagpur,India,tier2_city,23.7455,89.6202,semi_urban,2026-06-13
+RG0247,West Bengal,Bardhaman,India,tier2_city,23.4062,88.5073,urban,2026-06-13
+RG0248,West Bengal,Jalpaiguri,India,tier2_city,23.6716,88.2153,urban,2026-06-13
+RG0249,West Bengal,Malda,India,tier2_city,22.8999,87.7164,semi_urban,2026-06-13
+RG0250,West Bengal,Haldia,India,tier2_city,21.2857,89.7859,semi_urban,2026-06-13
+RG0251,Delhi,Delhi,India,tier1_city,29.7678,76.8192,metro,2026-06-13
+RG0252,Delhi,New Delhi,India,tier1_city,29.9754,76.9705,metro,2026-06-13
+RG0253,Jammu & Kashmir,Srinagar,India,tier1_city,33.5768,73.404,metro,2026-06-13
+RG0254,Jammu & Kashmir,Jammu,India,tier1_city,34.107,76.498,metro,2026-06-13
+RG0255,Jammu & Kashmir,Anantnag,India,tier2_city,34.935,74.7323,urban,2026-06-13
+RG0256,Ladakh,Leh,India,tier2_city,33.0159,77.2931,urban,2026-06-13
+RG0257,Ladakh,Kargil,India,tier2_city,34.8653,77.6422,urban,2026-06-13
+RG0258,Chandigarh,Chandigarh,India,tier1_city,32.0167,76.5642,metro,2026-06-13
+RG0259,Puducherry,Puducherry,India,tier2_city,10.9694,80.1925,urban,2026-06-13
+RG0260,Puducherry,Karaikal,India,tier2_city,12.4978,80.8772,urban,2026-06-13
+RG0261,Puducherry,Mahe,India,tier2_city,12.4847,78.4835,semi_urban,2026-06-13
+RG0262,Puducherry,Yanam,India,tier2_city,11.7638,80.9842,semi_urban,2026-06-13
+RG0263,Lakshadweep,Kavaratti,India,tier2_city,11.5573,71.176,semi_urban,2026-06-13
+RG0264,Lakshadweep,Agatti,India,tier2_city,10.6794,74.1402,urban,2026-06-13
+RG0265,Andaman & Nicobar Islands,Port Blair,India,tier2_city,12.1356,92.8879,semi_urban,2026-06-13
+RG0266,Andaman & Nicobar Islands,Diglipur,India,tier2_city,12.2569,93.0072,urban,2026-06-13
+RG0267,Andaman & Nicobar Islands,Mayabunder,India,tier2_city,12.9302,91.5087,urban,2026-06-13
+RG0268,Dadra & Nagar Haveli and Daman & Diu,Silvassa,India,tier2_city,20.2281,72.5526,semi_urban,2026-06-13
+RG0269,Dadra & Nagar Haveli and Daman & Diu,Daman,India,tier2_city,20.865,72.9227,semi_urban,2026-06-13
+RG0270,Dadra & Nagar Haveli and Daman & Diu,Diu,India,tier2_city,21.0767,71.5616,urban,2026-06-13
